@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KadirPC\\Desktop\\en g\u00FCncel dosyalar\\Randevu_Proje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD675E2D-48E4-48D2-A623-4716EC866624}|Randevu.csproj|c:\\users\\kadirpc\\desktop\\en g\u00FCncel dosyalar\\randevu_proje\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD675E2D-48E4-48D2-A623-4716EC866624}|Randevu.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD675E2D-48E4-48D2-A623-4716EC866624}|Randevu.csproj|c:\\users\\kadirpc\\desktop\\en g\u00FCncel dosyalar\\randevu_proje\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD675E2D-48E4-48D2-A623-4716EC866624}|Randevu.csproj|solutionrelative:views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD675E2D-48E4-48D2-A623-4716EC866624}|Randevu.csproj|c:\\users\\kadirpc\\desktop\\en g\u00FCncel dosyalar\\randevu_proje\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD675E2D-48E4-48D2-A623-4716EC866624}|Randevu.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\KadirPC\\Desktop\\en g\u00FCncel dosyalar\\Randevu_Proje\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\KadirPC\\Desktop\\en g\u00FCncel dosyalar\\Randevu_Proje\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-29T09:18:45.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Blog.cshtml",
+              "DocumentMoniker": "C:\\Users\\KadirPC\\Desktop\\en g\u00FCncel dosyalar\\Randevu_Proje\\Views\\Home\\Blog.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Blog.cshtml",
+              "ToolTip": "C:\\Users\\KadirPC\\Desktop\\en g\u00FCncel dosyalar\\Randevu_Proje\\Views\\Home\\Blog.cshtml",
+              "RelativeToolTip": "Views\\Home\\Blog.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T03:30:59.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\KadirPC\\Desktop\\en g\u00FCncel dosyalar\\Randevu_Proje\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\KadirPC\\Desktop\\en g\u00FCncel dosyalar\\Randevu_Proje\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T23:56:18.86Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Randevu
+build_property.RootNamespace = Randevu
+build_property.ProjectDir = C:\Users\KadirPC\Desktop\EN GÜNCEL DOSYALAR 22.06.2024\TÜM DOSYALAR\Randevu_Proje\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\KadirPC\Desktop\EN GÜNCEL DOSYALAR 22.06.2024\TÜM DOSYALAR\Randevu_Proje
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/AdmPanel/Activate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtUGFuZWxcQWN0aXZhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/AdmPanel/AdmSettings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtUGFuZWxcQWRtU2V0dGluZ3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/AdmPanel/Appointments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtUGFuZWxcQXBwb2ludG1lbnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/AdmPanel/Blog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtUGFuZWxcQmxvZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/AdmPanel/BlogEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtUGFuZWxcQmxvZ0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/AdmPanel/ContactSettings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtUGFuZWxcQ29udGFjdFNldHRpbmdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/AdmPanel/DeactiveUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtUGFuZWxcRGVhY3RpdmVVc2Vycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/AdmPanel/ForgetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtUGFuZWxcRm9yZ2V0UGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/AdmPanel/GelirGider.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtUGFuZWxcR2VsaXJHaWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/AdmPanel/GelirGiderEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtUGFuZWxcR2VsaXJHaWRlckVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/AdmPanel/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtUGFuZWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/AdmPanel/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtUGFuZWxcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/AdmPanel/MainSettings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtUGFuZWxcTWFpblNldHRpbmdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/AdmPanel/MyAppointments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtUGFuZWxcTXlBcHBvaW50bWVudHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/AdmPanel/OffStaff.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtUGFuZWxcT2ZmU3RhZmYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/AdmPanel/Payment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtUGFuZWxcUGF5bWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/AdmPanel/PaymentConfirmed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtUGFuZWxcUGF5bWVudENvbmZpcm1lZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/AdmPanel/PaymentDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtUGFuZWxcUGF5bWVudERlbmllZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/AdmPanel/PaymentExpired.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtUGFuZWxcUGF5bWVudEV4cGlyZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/AdmPanel/PrivacySettings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtUGFuZWxcUHJpdmFjeVNldHRpbmdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/AdmPanel/RecommendedSettings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtUGFuZWxcUmVjb21tZW5kZWRTZXR0aW5ncy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/AdmPanel/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtUGFuZWxcUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/AdmPanel/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtUGFuZWxcUmVzZXRQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/AdmPanel/ServiceEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtUGFuZWxcU2VydmljZUVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/AdmPanel/Services.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtUGFuZWxcU2VydmljZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/AdmPanel/SpecialDays.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtUGFuZWxcU3BlY2lhbERheXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/AdmPanel/Staff.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtUGFuZWxcU3RhZmYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/AdmPanel/StaffEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtUGFuZWxcU3RhZmZFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/AdmPanel/TavSettings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtUGFuZWxcVGF2U2V0dGluZ3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/AdmPanel/UserAppointments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtUGFuZWxcVXNlckFwcG9pbnRtZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/AdmPanel/Users.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtUGFuZWxcVXNlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/AdmPanel/UserSettings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtUGFuZWxcVXNlclNldHRpbmdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/AdmPanel/WorkDays.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtUGFuZWxcV29ya0RheXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/Home/AppointmentConfirmed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBcHBvaW50bWVudENvbmZpcm1lZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/Home/Blog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCbG9nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/Home/BlogDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCbG9nRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/Home/Randevu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSYW5kZXZ1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/Home/RandevuAdim2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSYW5kZXZ1QWRpbTIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/Home/RandevuAdim3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSYW5kZXZ1QWRpbTMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/Home/Services.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXJ2aWNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/Home/Team.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZWFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KadirPC/Desktop/EN GÜNCEL DOSYALAR 22.06.2024/TÜM DOSYALAR/Randevu_Proje/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-g5eqdx1pci

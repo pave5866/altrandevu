@@ -1,0 +1,3005 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\Randevu.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Randevu.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\img\\logo2.png",
+      "PackagePath": "staticwebassets\\img\\logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\img\\logo3.png",
+      "PackagePath": "staticwebassets\\img\\logo3.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\img\\services\\logo.png",
+      "PackagePath": "staticwebassets\\img\\services\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\img\\staff\\logo.png",
+      "PackagePath": "staticwebassets\\img\\staff\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\img\\tav\\1dba8327-3883-4980-9695-b4e60ce3ca35.png",
+      "PackagePath": "staticwebassets\\img\\tav\\1dba8327-3883-4980-9695-b4e60ce3ca35.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\img\\tav\\b794a50e-1c94-448b-89a8-af94c9900826.png",
+      "PackagePath": "staticwebassets\\img\\tav\\b794a50e-1c94-448b-89a8-af94c9900826.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\img\\tav\\bb93495f-e25b-43a2-b627-33c3ce63a8d3.png",
+      "PackagePath": "staticwebassets\\img\\tav\\bb93495f-e25b-43a2-b627-33c3ce63a8d3.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\bat\\ReCaptcha\\ReCaptcha.php",
+      "PackagePath": "staticwebassets\\index\\bat\\ReCaptcha\\ReCaptcha.php"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\bat\\ReCaptcha\\RequestMethod.php",
+      "PackagePath": "staticwebassets\\index\\bat\\ReCaptcha\\RequestMethod.php"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\bat\\ReCaptcha\\RequestMethod\\Curl.php",
+      "PackagePath": "staticwebassets\\index\\bat\\ReCaptcha\\RequestMethod\\Curl.php"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\bat\\ReCaptcha\\RequestMethod\\CurlPost.php",
+      "PackagePath": "staticwebassets\\index\\bat\\ReCaptcha\\RequestMethod\\CurlPost.php"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\bat\\ReCaptcha\\RequestMethod\\Post.php",
+      "PackagePath": "staticwebassets\\index\\bat\\ReCaptcha\\RequestMethod\\Post.php"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\bat\\ReCaptcha\\RequestMethod\\Socket.php",
+      "PackagePath": "staticwebassets\\index\\bat\\ReCaptcha\\RequestMethod\\Socket.php"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\bat\\ReCaptcha\\RequestMethod\\SocketPost.php",
+      "PackagePath": "staticwebassets\\index\\bat\\ReCaptcha\\RequestMethod\\SocketPost.php"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\bat\\ReCaptcha\\RequestParameters.php",
+      "PackagePath": "staticwebassets\\index\\bat\\ReCaptcha\\RequestParameters.php"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\bat\\ReCaptcha\\Response.php",
+      "PackagePath": "staticwebassets\\index\\bat\\ReCaptcha\\Response.php"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\bat\\ReCaptcha\\autoload.php",
+      "PackagePath": "staticwebassets\\index\\bat\\ReCaptcha\\autoload.php"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\bat\\phpmailer\\PHPMailerAutoload.php",
+      "PackagePath": "staticwebassets\\index\\bat\\phpmailer\\PHPMailerAutoload.php"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\bat\\phpmailer\\class.phpmailer.php",
+      "PackagePath": "staticwebassets\\index\\bat\\phpmailer\\class.phpmailer.php"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\bat\\phpmailer\\class.pop3.php",
+      "PackagePath": "staticwebassets\\index\\bat\\phpmailer\\class.pop3.php"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\bat\\phpmailer\\class.smtp.php",
+      "PackagePath": "staticwebassets\\index\\bat\\phpmailer\\class.smtp.php"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\bat\\rd-mailform.config.json",
+      "PackagePath": "staticwebassets\\index\\bat\\rd-mailform.config.json"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\bat\\rd-mailform.php",
+      "PackagePath": "staticwebassets\\index\\bat\\rd-mailform.php"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\bat\\rd-mailform.tpl",
+      "PackagePath": "staticwebassets\\index\\bat\\rd-mailform.tpl"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\bat\\rd-search.php",
+      "PackagePath": "staticwebassets\\index\\bat\\rd-search.php"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\bat\\reCaptcha.php",
+      "PackagePath": "staticwebassets\\index\\bat\\reCaptcha.php"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\bat\\twitter_api\\config.php",
+      "PackagePath": "staticwebassets\\index\\bat\\twitter_api\\config.php"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\bat\\twitter_api\\tweet.php",
+      "PackagePath": "staticwebassets\\index\\bat\\twitter_api\\tweet.php"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\bat\\twitter_api\\twitteroauth\\OAuth.php",
+      "PackagePath": "staticwebassets\\index\\bat\\twitter_api\\twitteroauth\\OAuth.php"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\bat\\twitter_api\\twitteroauth\\twitteroauth.php",
+      "PackagePath": "staticwebassets\\index\\bat\\twitter_api\\twitteroauth\\twitteroauth.php"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\css\\style.css",
+      "PackagePath": "staticwebassets\\index\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\index\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\fonts\\Jaapokki-Regular.eot",
+      "PackagePath": "staticwebassets\\index\\fonts\\Jaapokki-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\fonts\\Jaapokki-Regular.otf",
+      "PackagePath": "staticwebassets\\index\\fonts\\Jaapokki-Regular.otf"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\fonts\\Jaapokki-Regular.ttf",
+      "PackagePath": "staticwebassets\\index\\fonts\\Jaapokki-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\fonts\\Jaapokki-Regular.woff",
+      "PackagePath": "staticwebassets\\index\\fonts\\Jaapokki-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\fonts\\MaterialIcons-Regular.eot",
+      "PackagePath": "staticwebassets\\index\\fonts\\MaterialIcons-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\fonts\\MaterialIcons-Regular.ijmap",
+      "PackagePath": "staticwebassets\\index\\fonts\\MaterialIcons-Regular.ijmap"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\fonts\\MaterialIcons-Regular.ttf",
+      "PackagePath": "staticwebassets\\index\\fonts\\MaterialIcons-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\fonts\\MaterialIcons-Regular.woff",
+      "PackagePath": "staticwebassets\\index\\fonts\\MaterialIcons-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\fonts\\MaterialIcons-Regular.woff2",
+      "PackagePath": "staticwebassets\\index\\fonts\\MaterialIcons-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\index\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\index\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\index\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\index\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\index\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\index\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\index\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\index\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\index\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\index\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\fonts\\material-design.eot",
+      "PackagePath": "staticwebassets\\index\\fonts\\material-design.eot"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\fonts\\material-design.svg",
+      "PackagePath": "staticwebassets\\index\\fonts\\material-design.svg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\fonts\\material-design.ttf",
+      "PackagePath": "staticwebassets\\index\\fonts\\material-design.ttf"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\fonts\\material-design.woff",
+      "PackagePath": "staticwebassets\\index\\fonts\\material-design.woff"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\index\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\fonts\\materialdesignicons-webfont.svg",
+      "PackagePath": "staticwebassets\\index\\fonts\\materialdesignicons-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\index\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\index\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\index\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\_blank.png",
+      "PackagePath": "staticwebassets\\index\\images\\_blank.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\about-1-300x460.jpg",
+      "PackagePath": "staticwebassets\\index\\images\\about-1-300x460.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\about-2-300x460.jpg",
+      "PackagePath": "staticwebassets\\index\\images\\about-2-300x460.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\about-3-300x460.jpg",
+      "PackagePath": "staticwebassets\\index\\images\\about-3-300x460.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\index\\images\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\arrows.png",
+      "PackagePath": "staticwebassets\\index\\images\\arrows.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\barbers-1-370x310.jpg",
+      "PackagePath": "staticwebassets\\index\\images\\barbers-1-370x310.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\barbers-2-370x310.jpg",
+      "PackagePath": "staticwebassets\\index\\images\\barbers-2-370x310.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\barbers-3-370x310.jpg",
+      "PackagePath": "staticwebassets\\index\\images\\barbers-3-370x310.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\barbers-4-370x310.jpg",
+      "PackagePath": "staticwebassets\\index\\images\\barbers-4-370x310.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\barbers-5-370x310.jpg",
+      "PackagePath": "staticwebassets\\index\\images\\barbers-5-370x310.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\barbers-6-370x310.jpg",
+      "PackagePath": "staticwebassets\\index\\images\\barbers-6-370x310.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\barbers-7-400x480.jpg",
+      "PackagePath": "staticwebassets\\index\\images\\barbers-7-400x480.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\barbers-8-400x480.jpg",
+      "PackagePath": "staticwebassets\\index\\images\\barbers-8-400x480.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\barbers-9-400x480.jpg",
+      "PackagePath": "staticwebassets\\index\\images\\barbers-9-400x480.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\barbers-single-1-130x130.jpg",
+      "PackagePath": "staticwebassets\\index\\images\\barbers-single-1-130x130.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\bg-image-1.jpg",
+      "PackagePath": "staticwebassets\\index\\images\\bg-image-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\bg-image-1.png",
+      "PackagePath": "staticwebassets\\index\\images\\bg-image-1.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\bg-image-2.jpg",
+      "PackagePath": "staticwebassets\\index\\images\\bg-image-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\bg-image-3.jpg",
+      "PackagePath": "staticwebassets\\index\\images\\bg-image-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\bg-image-4.jpg",
+      "PackagePath": "staticwebassets\\index\\images\\bg-image-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\bg-image-5.jpg",
+      "PackagePath": "staticwebassets\\index\\images\\bg-image-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\bg-image-6.jpg",
+      "PackagePath": "staticwebassets\\index\\images\\bg-image-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\bg-image-title.jpg",
+      "PackagePath": "staticwebassets\\index\\images\\bg-image-title.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\blog-1-770x330.jpg",
+      "PackagePath": "staticwebassets\\index\\images\\blog-1-770x330.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\blog-2-770x330.jpg",
+      "PackagePath": "staticwebassets\\index\\images\\blog-2-770x330.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\blog-3-370x250.jpg",
+      "PackagePath": "staticwebassets\\index\\images\\blog-3-370x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\blog-3-770x330.jpg",
+      "PackagePath": "staticwebassets\\index\\images\\blog-3-770x330.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\blog-4-370x250.jpg",
+      "PackagePath": "staticwebassets\\index\\images\\blog-4-370x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\blog-5-370x250.jpg",
+      "PackagePath": "staticwebassets\\index\\images\\blog-5-370x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\blog\\1.png",
+      "PackagePath": "staticwebassets\\index\\images\\blog\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\blog\\10.png",
+      "PackagePath": "staticwebassets\\index\\images\\blog\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\blog\\11.png",
+      "PackagePath": "staticwebassets\\index\\images\\blog\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\blog\\12.png",
+      "PackagePath": "staticwebassets\\index\\images\\blog\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\blog\\2.png",
+      "PackagePath": "staticwebassets\\index\\images\\blog\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\blog\\3.png",
+      "PackagePath": "staticwebassets\\index\\images\\blog\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\blog\\4.png",
+      "PackagePath": "staticwebassets\\index\\images\\blog\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\blog\\5.png",
+      "PackagePath": "staticwebassets\\index\\images\\blog\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\blog\\6.png",
+      "PackagePath": "staticwebassets\\index\\images\\blog\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\blog\\7.png",
+      "PackagePath": "staticwebassets\\index\\images\\blog\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\blog\\8.png",
+      "PackagePath": "staticwebassets\\index\\images\\blog\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\blog\\9.png",
+      "PackagePath": "staticwebassets\\index\\images\\blog\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\box-post-1-530x490.png",
+      "PackagePath": "staticwebassets\\index\\images\\box-post-1-530x490.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\box-post-2-530x490.png",
+      "PackagePath": "staticwebassets\\index\\images\\box-post-2-530x490.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\box-post-3-530x490.png",
+      "PackagePath": "staticwebassets\\index\\images\\box-post-3-530x490.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\card-1-65x40.png",
+      "PackagePath": "staticwebassets\\index\\images\\card-1-65x40.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\card-2-65x40.png",
+      "PackagePath": "staticwebassets\\index\\images\\card-2-65x40.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\card-3-65x40.png",
+      "PackagePath": "staticwebassets\\index\\images\\card-3-65x40.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\card-4-65x40.png",
+      "PackagePath": "staticwebassets\\index\\images\\card-4-65x40.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\card-5-65x40.png",
+      "PackagePath": "staticwebassets\\index\\images\\card-5-65x40.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\cart-1-80x82.png",
+      "PackagePath": "staticwebassets\\index\\images\\cart-1-80x82.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\index\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\gmap_marker.png",
+      "PackagePath": "staticwebassets\\index\\images\\gmap_marker.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\gmap_marker_active.png",
+      "PackagePath": "staticwebassets\\index\\images\\gmap_marker_active.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\home-1-585x580.jpg",
+      "PackagePath": "staticwebassets\\index\\images\\home-1-585x580.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\home-three-1-1920x800.jpg",
+      "PackagePath": "staticwebassets\\index\\images\\home-three-1-1920x800.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\home-three-2-910x800.jpg",
+      "PackagePath": "staticwebassets\\index\\images\\home-three-2-910x800.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\home-three-3-1011x800.jpg",
+      "PackagePath": "staticwebassets\\index\\images\\home-three-3-1011x800.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\home-two-1-495x261.png",
+      "PackagePath": "staticwebassets\\index\\images\\home-two-1-495x261.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\homebg.png",
+      "PackagePath": "staticwebassets\\index\\images\\homebg.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\icon-done-15x14.png",
+      "PackagePath": "staticwebassets\\index\\images\\icon-done-15x14.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\icon-service-1-70x62.png",
+      "PackagePath": "staticwebassets\\index\\images\\icon-service-1-70x62.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\icon-service-2-70x62.png",
+      "PackagePath": "staticwebassets\\index\\images\\icon-service-2-70x62.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\icon-service-3-70x62.png",
+      "PackagePath": "staticwebassets\\index\\images\\icon-service-3-70x62.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\icon-service-4-70x62.png",
+      "PackagePath": "staticwebassets\\index\\images\\icon-service-4-70x62.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\icon-service-light-1-70x62.png",
+      "PackagePath": "staticwebassets\\index\\images\\icon-service-light-1-70x62.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\icon-service-light-2-70x62.png",
+      "PackagePath": "staticwebassets\\index\\images\\icon-service-light-2-70x62.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\icon-service-light-3-70x62.png",
+      "PackagePath": "staticwebassets\\index\\images\\icon-service-light-3-70x62.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\icon-service-light-4-70x62.png",
+      "PackagePath": "staticwebassets\\index\\images\\icon-service-light-4-70x62.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\ie8-panel\\warning_bar_0000_us.jpg",
+      "PackagePath": "staticwebassets\\index\\images\\ie8-panel\\warning_bar_0000_us.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\isotope-loader.png",
+      "PackagePath": "staticwebassets\\index\\images\\isotope-loader.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\logo-big-dark-125x125.png",
+      "PackagePath": "staticwebassets\\index\\images\\logo-big-dark-125x125.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\logo-big-light-160x160.png",
+      "PackagePath": "staticwebassets\\index\\images\\logo-big-light-160x160.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\logo-default-dark-200x36.png",
+      "PackagePath": "staticwebassets\\index\\images\\logo-default-dark-200x36.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\logo-default-light-200x36.png",
+      "PackagePath": "staticwebassets\\index\\images\\logo-default-light-200x36.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\photoswipe-controls.png",
+      "PackagePath": "staticwebassets\\index\\images\\photoswipe-controls.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\photoswipe-controls.svg",
+      "PackagePath": "staticwebassets\\index\\images\\photoswipe-controls.svg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\post-single-1-1170x600.jpg",
+      "PackagePath": "staticwebassets\\index\\images\\post-single-1-1170x600.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\preloader.gif",
+      "PackagePath": "staticwebassets\\index\\images\\preloader.gif"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\preloader.png",
+      "PackagePath": "staticwebassets\\index\\images\\preloader.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\product-1-164x168.png",
+      "PackagePath": "staticwebassets\\index\\images\\product-1-164x168.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\product-2-210x168.png",
+      "PackagePath": "staticwebassets\\index\\images\\product-2-210x168.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\product-3-175x168.png",
+      "PackagePath": "staticwebassets\\index\\images\\product-3-175x168.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\product-single-1-274x280.png",
+      "PackagePath": "staticwebassets\\index\\images\\product-single-1-274x280.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\product-single-2-274x280.png",
+      "PackagePath": "staticwebassets\\index\\images\\product-single-2-274x280.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\product-single-3-274x280.png",
+      "PackagePath": "staticwebassets\\index\\images\\product-single-3-274x280.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\product-single-4-274x280.png",
+      "PackagePath": "staticwebassets\\index\\images\\product-single-4-274x280.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\services-1-500x490.png",
+      "PackagePath": "staticwebassets\\index\\images\\services-1-500x490.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\services-2-500x490.png",
+      "PackagePath": "staticwebassets\\index\\images\\services-2-500x490.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\services-3-500x490.png",
+      "PackagePath": "staticwebassets\\index\\images\\services-3-500x490.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\services-4-500x490.png",
+      "PackagePath": "staticwebassets\\index\\images\\services-4-500x490.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\team-1-170x180.jpg",
+      "PackagePath": "staticwebassets\\index\\images\\team-1-170x180.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\team-2-170x180.jpg",
+      "PackagePath": "staticwebassets\\index\\images\\team-2-170x180.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\team-3-170x180.jpg",
+      "PackagePath": "staticwebassets\\index\\images\\team-3-170x180.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\testimonials-1-100x100.jpg",
+      "PackagePath": "staticwebassets\\index\\images\\testimonials-1-100x100.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\testimonials-2-100x100.jpg",
+      "PackagePath": "staticwebassets\\index\\images\\testimonials-2-100x100.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\testimonials-3-100x100.jpg",
+      "PackagePath": "staticwebassets\\index\\images\\testimonials-3-100x100.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\testimonials-4-100x100.jpg",
+      "PackagePath": "staticwebassets\\index\\images\\testimonials-4-100x100.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\testimonials-5-100x100.jpg",
+      "PackagePath": "staticwebassets\\index\\images\\testimonials-5-100x100.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\typography-1-770x485.jpg",
+      "PackagePath": "staticwebassets\\index\\images\\typography-1-770x485.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\images\\typography-2-350x220.jpg",
+      "PackagePath": "staticwebassets\\index\\images\\typography-2-350x220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\js\\core.min.js",
+      "PackagePath": "staticwebassets\\index\\js\\core.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\js\\html5shiv.min.js",
+      "PackagePath": "staticwebassets\\index\\js\\html5shiv.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\js\\pointer-events.min.js",
+      "PackagePath": "staticwebassets\\index\\js\\pointer-events.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\js\\script.js",
+      "PackagePath": "staticwebassets\\index\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\_config.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\_config.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\_mixins.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\_mixins.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\_skeleton.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\_skeleton.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\elements\\_ui-box-icon-unit.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\elements\\_ui-box-icon-unit.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\elements\\_ui-box-icon.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\elements\\_ui-box-icon.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\elements\\_ui-box-post.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\elements\\_ui-box-post.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\elements\\_ui-box-service.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\elements\\_ui-box-service.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\elements\\_ui-card-service-option.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\elements\\_ui-card-service-option.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\elements\\_ui-card-service.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\elements\\_ui-card-service.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\elements\\_ui-page-title.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\elements\\_ui-page-title.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\elements\\_ui-panel.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\elements\\_ui-panel.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\elements\\_ui-post-block.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\elements\\_ui-post-block.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\elements\\_ui-post-classic.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\elements\\_ui-post-classic.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\elements\\_ui-product.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\elements\\_ui-product.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\elements\\_ui-quote-card.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\elements\\_ui-quote-card.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\elements\\_ui-quote-centered.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\elements\\_ui-quote-centered.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\elements\\_ui-quote-fullwidth.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\elements\\_ui-quote-fullwidth.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\elements\\_ui-quote-primary.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\elements\\_ui-quote-primary.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\elements\\_ui-quote-review.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\elements\\_ui-quote-review.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\elements\\_ui-section-header.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\elements\\_ui-section-header.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\elements\\_ui-thumbnail-card.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\elements\\_ui-thumbnail-card.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\elements\\_ui-thumbnail-fullwidth.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\elements\\_ui-thumbnail-fullwidth.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\elements\\_ui-thumbnail-option.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\elements\\_ui-thumbnail-option.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\includes\\_modal-single-barber.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\includes\\_modal-single-barber.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\includes\\_nav.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\includes\\_nav.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\pages\\404-page.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\pages\\404-page.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\pages\\503-page.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\pages\\503-page.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\pages\\about.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\pages\\about.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\pages\\barbers.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\pages\\barbers.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\pages\\blog.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\pages\\blog.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\pages\\buttons.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\pages\\buttons.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\pages\\cart.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\pages\\cart.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\pages\\checkout.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\pages\\checkout.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\pages\\coming-soon.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\pages\\coming-soon.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\pages\\contacts-1.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\pages\\contacts-1.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\pages\\contacts-2.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\pages\\contacts-2.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\pages\\faq.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\pages\\faq.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\pages\\finish.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\pages\\finish.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\pages\\footer-default.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\pages\\footer-default.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\pages\\footer-variant-2.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\pages\\footer-variant-2.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\pages\\footer-variant-3.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\pages\\footer-variant-3.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\pages\\forms.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\pages\\forms.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\pages\\grid.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\pages\\grid.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\pages\\header-fullwidth.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\pages\\header-fullwidth.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\pages\\header-perspective.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\pages\\header-perspective.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\pages\\header-transparent.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\pages\\header-transparent.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\pages\\home-variant-2.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\pages\\home-variant-2.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\pages\\home-variant-3.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\pages\\home-variant-3.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\pages\\index.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\pages\\index.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\pages\\maintenance.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\pages\\maintenance.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\pages\\privacy-policy.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\pages\\privacy-policy.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\pages\\progress-bars.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\pages\\progress-bars.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\pages\\services.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\pages\\services.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\pages\\shop.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\pages\\shop.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\pages\\single-post.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\pages\\single-post.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\pages\\single-product.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\pages\\single-product.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\pages\\step-1.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\pages\\step-1.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\pages\\step-2.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\pages\\step-2.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\pages\\step-3.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\pages\\step-3.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\pages\\step-4.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\pages\\step-4.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\pages\\tables.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\pages\\tables.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\pages\\tabs-and-accordions.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\pages\\tabs-and-accordions.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\pages\\testimonials.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\pages\\testimonials.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\pages\\typography.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\pages\\typography.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\sections\\_footer-default.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\sections\\_footer-default.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\sections\\_footer-variant-2.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\sections\\_footer-variant-2.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\sections\\_footer-variant-3.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\sections\\_footer-variant-3.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\sections\\_header-default.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\sections\\_header-default.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\sections\\_header-fullwidth.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\sections\\_header-fullwidth.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\sections\\_header-transparent.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\sections\\_header-transparent.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\sections\\_menu-perspective.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\sections\\_menu-perspective.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\sections\\_section-jumbotron-2.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\sections\\_section-jumbotron-2.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\sections\\_section-jumbotron-3.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\sections\\_section-jumbotron-3.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\sections\\_section-placeholder.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\sections\\_section-placeholder.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\sections\\_section-testimonials-carousel.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\sections\\_section-testimonials-carousel.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\pug\\sections\\_section-who-we-are-white.pug",
+      "PackagePath": "staticwebassets\\index\\sources\\pug\\sections\\_section-who-we-are-white.pug"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\_toolkit.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\_toolkit.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\_variables.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\_alerts.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\_alerts.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\_badges.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\_button-groups.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\_button-groups.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\_component-animations.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\_component-animations.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\_dropdowns.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\_glyphicons.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\_glyphicons.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\_input-groups.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\_input-groups.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\_labels.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\_modals.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\_modals.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\_navs.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\_navs.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\_normalize.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\_normalize.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\_pager.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\_pager.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\_panels.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\_panels.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\_popovers.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\_popovers.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\_progress-bars.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\_progress-bars.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\_responsive-embed.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\_responsive-embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\_responsive-utilities.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\_responsive-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\_scaffolding.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\_scaffolding.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\_theme.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\_theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\_thumbnails.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\_thumbnails.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\_wells.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\_wells.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\mixins\\_alerts.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\mixins\\_alerts.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\mixins\\_center-block.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\mixins\\_center-block.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\mixins\\_hide-text.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\mixins\\_hide-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\mixins\\_labels.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\mixins\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\mixins\\_nav-vertical-align.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\mixins\\_nav-vertical-align.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\mixins\\_opacity.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\mixins\\_opacity.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\mixins\\_panels.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\mixins\\_panels.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\mixins\\_progress-bar.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\mixins\\_progress-bar.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\mixins\\_reset-filter.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\mixins\\_reset-filter.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\mixins\\_responsive-visibility.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\mixins\\_responsive-visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\mixins\\_tab-focus.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\mixins\\_tab-focus.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\mixins\\_text-overflow.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\mixins\\_text-overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\bootstrap\\mixins\\_vendor-prefixes.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\bootstrap\\mixins\\_vendor-prefixes.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\_alerts-custom.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\_alerts-custom.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\_box-custom.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\_box-custom.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\_buttons-custom.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\_buttons-custom.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\_date-picker.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\_date-picker.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\_divider.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\_divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\_flex-grid.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\_flex-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\_font-awesome.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\_font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\_forms-custom.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\_forms-custom.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\_grid-modules.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\_grid-modules.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\_groups.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\_groups.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\_icons.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\_jumbotron-custom.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\_jumbotron-custom.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\_links.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\_links.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\_lists.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\_material-icons.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\_material-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\_materialdesignicons.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\_materialdesignicons.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\_mixins-custom.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\_mixins-custom.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\_nav-custom.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\_nav-custom.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\_offsets.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\_offsets.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\_page-title.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\_page-title.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\_pagination-custom.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\_pagination-custom.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\_panels-custom.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\_panels-custom.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\_post-utilities.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\_post-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\_pull-responsive.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\_pull-responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\_quotes-custom.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\_quotes-custom.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\_reset.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\_scaffolding-custom.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\_scaffolding-custom.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\_shop-utilities.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\_shop-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\_tables-custom.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\_tables-custom.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\_text-alignment.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\_text-alignment.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\_text-responsive.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\_text-responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\_text-styling.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\_text-styling.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\_thumbnails-custom.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\_thumbnails-custom.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\_type-custom.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\_type-custom.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\_unit-responsive.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\_unit-responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\_utilities-custom.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\_utilities-custom.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\_visibility-responsive.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\_visibility-responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\_wrappers.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\_wrappers.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\mixins\\_calc-utilities.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\mixins\\_calc-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\mixins\\_element-groups.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\mixins\\_element-groups.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\mixins\\_flex-grid-framework.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\mixins\\_flex-grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\mixins\\_flex.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\mixins\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\mixins\\_forms-custom.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\mixins\\_forms-custom.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\mixins\\_functions.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\mixins\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\mixins\\_icons.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\mixins\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\mixins\\_links.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\mixins\\_links.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\mixins\\_pull-utilities.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\mixins\\_pull-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\mixins\\_spacing.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\mixins\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\mixins\\_text-utilities.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\mixins\\_text-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\mixins\\_unit-utilities.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\mixins\\_unit-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\mixins\\_vendors-custom.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\mixins\\_vendors-custom.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\custom\\mixins\\_visibility-utilities.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\custom\\mixins\\_visibility-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\plugins\\_animate.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\plugins\\_animate.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\plugins\\_isotope.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\plugins\\_isotope.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\plugins\\_jquery.fs.stepper.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\plugins\\_jquery.fs.stepper.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\plugins\\_owl-carousel.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\plugins\\_owl-carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\plugins\\_photoswipe.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\plugins\\_photoswipe.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\plugins\\_progress-bar.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\plugins\\_progress-bar.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\plugins\\_rd-google-map.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\plugins\\_rd-google-map.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\plugins\\_rd-material-tabs.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\plugins\\_rd-material-tabs.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\plugins\\_rd-navbar.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\plugins\\_rd-navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\plugins\\_rd-parallax.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\plugins\\_rd-parallax.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\plugins\\_rd-search.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\plugins\\_rd-search.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\plugins\\_select2.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\plugins\\_select2.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\plugins\\_slick.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\plugins\\_slick.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\plugins\\_swiper.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\plugins\\_swiper.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\plugins\\rd-navbar_includes\\_rd-navbar-components.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\plugins\\rd-navbar_includes\\_rd-navbar-components.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\plugins\\rd-navbar_includes\\_rd-navbar-default.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\plugins\\rd-navbar_includes\\_rd-navbar-default.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\plugins\\rd-navbar_includes\\_rd-navbar-fixed.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\plugins\\rd-navbar_includes\\_rd-navbar-fixed.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\plugins\\rd-navbar_includes\\_rd-navbar-fullwidth.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\plugins\\rd-navbar_includes\\_rd-navbar-fullwidth.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\plugins\\rd-navbar_includes\\_rd-navbar-mixins.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\plugins\\rd-navbar_includes\\_rd-navbar-mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\plugins\\rd-navbar_includes\\_rd-navbar-sidebar.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\plugins\\rd-navbar_includes\\_rd-navbar-sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\plugins\\rd-navbar_includes\\_rd-navbar-static.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\plugins\\rd-navbar_includes\\_rd-navbar-static.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\index\\sources\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\index\\sources\\sass\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\main\\script.js",
+      "PackagePath": "staticwebassets\\main\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\main\\style.css",
+      "PackagePath": "staticwebassets\\main\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\panel\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\css\\main-light-color.css",
+      "PackagePath": "staticwebassets\\panel\\css\\main-light-color.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\css\\main.css",
+      "PackagePath": "staticwebassets\\panel\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\favicon.ico",
+      "PackagePath": "staticwebassets\\panel\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\flags\\1x1\\au.svg",
+      "PackagePath": "staticwebassets\\panel\\flags\\1x1\\au.svg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\flags\\1x1\\de.svg",
+      "PackagePath": "staticwebassets\\panel\\flags\\1x1\\de.svg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\flags\\1x1\\hk.svg",
+      "PackagePath": "staticwebassets\\panel\\flags\\1x1\\hk.svg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\flags\\1x1\\ru.svg",
+      "PackagePath": "staticwebassets\\panel\\flags\\1x1\\ru.svg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\flags\\1x1\\tz.svg",
+      "PackagePath": "staticwebassets\\panel\\flags\\1x1\\tz.svg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\panel\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\panel\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\panel\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\panel\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\fonts\\style.css",
+      "PackagePath": "staticwebassets\\panel\\fonts\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\agenda-bg.png",
+      "PackagePath": "staticwebassets\\panel\\img\\agenda-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\bg1.jpeg",
+      "PackagePath": "staticwebassets\\panel\\img\\bg1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\bg2.jpeg",
+      "PackagePath": "staticwebassets\\panel\\img\\bg2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\bg3.jpeg",
+      "PackagePath": "staticwebassets\\panel\\img\\bg3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\bg4.jpeg",
+      "PackagePath": "staticwebassets\\panel\\img\\bg4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\cards\\american-express.png",
+      "PackagePath": "staticwebassets\\panel\\img\\cards\\american-express.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\cards\\diners.png",
+      "PackagePath": "staticwebassets\\panel\\img\\cards\\diners.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\cards\\discover.png",
+      "PackagePath": "staticwebassets\\panel\\img\\cards\\discover.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\cards\\jcb.png",
+      "PackagePath": "staticwebassets\\panel\\img\\cards\\jcb.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\cards\\mastercard.png",
+      "PackagePath": "staticwebassets\\panel\\img\\cards\\mastercard.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\cards\\visa.png",
+      "PackagePath": "staticwebassets\\panel\\img\\cards\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\docs\\doc.svg",
+      "PackagePath": "staticwebassets\\panel\\img\\docs\\doc.svg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\docs\\pdf.svg",
+      "PackagePath": "staticwebassets\\panel\\img\\docs\\pdf.svg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\docs\\ppt.svg",
+      "PackagePath": "staticwebassets\\panel\\img\\docs\\ppt.svg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\docs\\xls.svg",
+      "PackagePath": "staticwebassets\\panel\\img\\docs\\xls.svg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\docs\\zip.svg",
+      "PackagePath": "staticwebassets\\panel\\img\\docs\\zip.svg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\fav.png",
+      "PackagePath": "staticwebassets\\panel\\img\\fav.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\img1.jpg",
+      "PackagePath": "staticwebassets\\panel\\img\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\img10.jpg",
+      "PackagePath": "staticwebassets\\panel\\img\\img10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\img11.jpg",
+      "PackagePath": "staticwebassets\\panel\\img\\img11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\img12.jpg",
+      "PackagePath": "staticwebassets\\panel\\img\\img12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\img2.jpg",
+      "PackagePath": "staticwebassets\\panel\\img\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\img3.jpg",
+      "PackagePath": "staticwebassets\\panel\\img\\img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\img4.jpg",
+      "PackagePath": "staticwebassets\\panel\\img\\img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\img5.jpg",
+      "PackagePath": "staticwebassets\\panel\\img\\img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\img6.jpg",
+      "PackagePath": "staticwebassets\\panel\\img\\img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\img7.jpg",
+      "PackagePath": "staticwebassets\\panel\\img\\img7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\img8.jpg",
+      "PackagePath": "staticwebassets\\panel\\img\\img8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\img9.jpg",
+      "PackagePath": "staticwebassets\\panel\\img\\img9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\logo-dark.png",
+      "PackagePath": "staticwebassets\\panel\\img\\logo-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\logo.png",
+      "PackagePath": "staticwebassets\\panel\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\notification-danger.svg",
+      "PackagePath": "staticwebassets\\panel\\img\\notification-danger.svg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\notification-info.svg",
+      "PackagePath": "staticwebassets\\panel\\img\\notification-info.svg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\notification-success.svg",
+      "PackagePath": "staticwebassets\\panel\\img\\notification-success.svg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\pic.jpeg",
+      "PackagePath": "staticwebassets\\panel\\img\\pic.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\profile-bg.jpg",
+      "PackagePath": "staticwebassets\\panel\\img\\profile-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\stripes.png",
+      "PackagePath": "staticwebassets\\panel\\img\\stripes.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\user.png",
+      "PackagePath": "staticwebassets\\panel\\img\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\user10.png",
+      "PackagePath": "staticwebassets\\panel\\img\\user10.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\user12.png",
+      "PackagePath": "staticwebassets\\panel\\img\\user12.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\user13.png",
+      "PackagePath": "staticwebassets\\panel\\img\\user13.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\user14.png",
+      "PackagePath": "staticwebassets\\panel\\img\\user14.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\user17.png",
+      "PackagePath": "staticwebassets\\panel\\img\\user17.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\user18.png",
+      "PackagePath": "staticwebassets\\panel\\img\\user18.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\user2.png",
+      "PackagePath": "staticwebassets\\panel\\img\\user2.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\user20.png",
+      "PackagePath": "staticwebassets\\panel\\img\\user20.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\user21.png",
+      "PackagePath": "staticwebassets\\panel\\img\\user21.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\user22.png",
+      "PackagePath": "staticwebassets\\panel\\img\\user22.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\user24.png",
+      "PackagePath": "staticwebassets\\panel\\img\\user24.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\user3.png",
+      "PackagePath": "staticwebassets\\panel\\img\\user3.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\user4.png",
+      "PackagePath": "staticwebassets\\panel\\img\\user4.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\user5.png",
+      "PackagePath": "staticwebassets\\panel\\img\\user5.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\user6.png",
+      "PackagePath": "staticwebassets\\panel\\img\\user6.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\user7.png",
+      "PackagePath": "staticwebassets\\panel\\img\\user7.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\img\\user9.png",
+      "PackagePath": "staticwebassets\\panel\\img\\user9.png"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\panel\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\panel\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\js\\jquery.easing.1.3.js",
+      "PackagePath": "staticwebassets\\panel\\js\\jquery.easing.1.3.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\panel\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\js\\main.js",
+      "PackagePath": "staticwebassets\\panel\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\js\\moment.js",
+      "PackagePath": "staticwebassets\\panel\\js\\moment.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\apexcharts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\ecommerce-dashboard\\by-channel.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\ecommerce-dashboard\\by-channel.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\ecommerce-dashboard\\by-customer-type.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\ecommerce-dashboard\\by-customer-type.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\ecommerce-dashboard\\by-device.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\ecommerce-dashboard\\by-device.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\ecommerce-dashboard\\orders-visits-bouncerate.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\ecommerce-dashboard\\orders-visits-bouncerate.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\examples\\area\\basic-area-graph-spline.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\examples\\area\\basic-area-graph-spline.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\examples\\area\\basic-area-graph-stacked.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\examples\\area\\basic-area-graph-stacked.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\examples\\area\\basic-area-graph.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\examples\\area\\basic-area-graph.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\examples\\bar\\basic-bar-graph-grouped.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\examples\\bar\\basic-bar-graph-grouped.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\examples\\bar\\basic-bar-graph.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\examples\\bar\\basic-bar-graph.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\examples\\bar\\basic-bar-negative-values.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\examples\\bar\\basic-bar-negative-values.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\examples\\bar\\basic-bar-stack-graph-full-width.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\examples\\bar\\basic-bar-stack-graph-full-width.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\examples\\bar\\basic-bar-stack-graph.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\examples\\bar\\basic-bar-stack-graph.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\examples\\bubble\\basic-bubble-graph.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\examples\\bubble\\basic-bubble-graph.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\examples\\candlestick\\basic-candlestick-graph.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\examples\\candlestick\\basic-candlestick-graph.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\examples\\column\\basic-column-graph-datalables.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\examples\\column\\basic-column-graph-datalables.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\examples\\column\\basic-column-graph-rotated-labels.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\examples\\column\\basic-column-graph-rotated-labels.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\examples\\column\\basic-column-graph.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\examples\\column\\basic-column-graph.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\examples\\column\\basic-column-stack-graph-fullheight.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\examples\\column\\basic-column-stack-graph-fullheight.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\examples\\column\\basic-column-stack-graph.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\examples\\column\\basic-column-stack-graph.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\examples\\line\\basic-line-graph.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\examples\\line\\basic-line-graph.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\examples\\line\\line-with-data-labels.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\examples\\line\\line-with-data-labels.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\examples\\line\\stepline.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\examples\\line\\stepline.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\examples\\mixed\\line-area-graph.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\examples\\mixed\\line-area-graph.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\examples\\mixed\\line-column-graph.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\examples\\mixed\\line-column-graph.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\examples\\mixed\\line-scatter-graph.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\examples\\mixed\\line-scatter-graph.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\examples\\mixed\\multiple-yaxis.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\examples\\mixed\\multiple-yaxis.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\examples\\pie\\basic-donut-graph-gradient.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\examples\\pie\\basic-donut-graph-gradient.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\examples\\pie\\basic-donut-graph-monochrome-gradient.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\examples\\pie\\basic-donut-graph-monochrome-gradient.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\examples\\pie\\basic-donut-graph-monochrome.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\examples\\pie\\basic-donut-graph-monochrome.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\examples\\pie\\basic-donut-graph.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\examples\\pie\\basic-donut-graph.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\examples\\pie\\basic-pie-graph-gradient.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\examples\\pie\\basic-pie-graph-gradient.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\examples\\pie\\basic-pie-graph-monochrome-gradient.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\examples\\pie\\basic-pie-graph-monochrome-gradient.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\examples\\pie\\basic-pie-graph-monochrome.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\examples\\pie\\basic-pie-graph-monochrome.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\examples\\pie\\basic-pie-graph.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\examples\\pie\\basic-pie-graph.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\examples\\radial\\basic-radial-graph.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\examples\\radial\\basic-radial-graph.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\examples\\radial\\basic-radial-graph2.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\examples\\radial\\basic-radial-graph2.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\helpdesk-dashboard\\complaints.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\helpdesk-dashboard\\complaints.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\helpdesk-dashboard\\cost-per-support.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\helpdesk-dashboard\\cost-per-support.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\helpdesk-dashboard\\support-requests.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\helpdesk-dashboard\\support-requests.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\helpdesk-dashboard\\tickets.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\helpdesk-dashboard\\tickets.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\helpdesk-dashboard\\traffic-analysis.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\helpdesk-dashboard\\traffic-analysis.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\project-dashboard\\avg-handle-time.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\project-dashboard\\avg-handle-time.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\project-dashboard\\budget.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\project-dashboard\\budget.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\project-dashboard\\tasks-assigned.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\project-dashboard\\tasks-assigned.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\project-dashboard\\timeline.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\project-dashboard\\timeline.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\quick-dashboard\\compare-sales.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\quick-dashboard\\compare-sales.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\quick-dashboard\\compare-sales1.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\quick-dashboard\\compare-sales1.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\apex\\quick-dashboard\\tasks.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\apex\\quick-dashboard\\tasks.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\bs-select\\bs-select.css",
+      "PackagePath": "staticwebassets\\panel\\vendor\\bs-select\\bs-select.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\bs-select\\bs-select.min.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\bs-select\\bs-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\c3\\c3.min.css",
+      "PackagePath": "staticwebassets\\panel\\vendor\\c3\\c3.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\c3\\c3.min.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\c3\\c3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\c3\\custom\\area-spline-graph.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\c3\\custom\\area-spline-graph.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\c3\\custom\\bar-area-graph.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\c3\\custom\\bar-area-graph.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\c3\\custom\\bar-graph.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\c3\\custom\\bar-graph.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\c3\\custom\\donut-chart.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\c3\\custom\\donut-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\c3\\custom\\line-graph-one.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\c3\\custom\\line-graph-one.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\c3\\custom\\line-graph-overview.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\c3\\custom\\line-graph-overview.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\c3\\custom\\line-graph.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\c3\\custom\\line-graph.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\c3\\custom\\pie-chart-one.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\c3\\custom\\pie-chart-one.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\c3\\custom\\pie-chart.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\c3\\custom\\pie-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\c3\\custom\\scatter-plot.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\c3\\custom\\scatter-plot.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\c3\\custom\\server-requests.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\c3\\custom\\server-requests.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\c3\\custom\\spline-graph.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\c3\\custom\\spline-graph.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\c3\\custom\\spline-sales.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\c3\\custom\\spline-sales.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\c3\\custom\\stacked-bar-braph.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\c3\\custom\\stacked-bar-braph.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\c3\\custom\\step-graph.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\c3\\custom\\step-graph.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\calendar\\css\\core\\main.css",
+      "PackagePath": "staticwebassets\\panel\\vendor\\calendar\\css\\core\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\calendar\\css\\daygrid\\main.css",
+      "PackagePath": "staticwebassets\\panel\\vendor\\calendar\\css\\daygrid\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\calendar\\css\\list\\main.css",
+      "PackagePath": "staticwebassets\\panel\\vendor\\calendar\\css\\list\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\calendar\\css\\timegrid\\main.css",
+      "PackagePath": "staticwebassets\\panel\\vendor\\calendar\\css\\timegrid\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\calendar\\js\\core\\main.min.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\calendar\\js\\core\\main.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\calendar\\js\\custom-external-draggable-calendar.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\calendar\\js\\custom-external-draggable-calendar.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\calendar\\js\\custom-google-calendar.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\calendar\\js\\custom-google-calendar.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\calendar\\js\\custom-list-view.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\calendar\\js\\custom-list-view.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\calendar\\js\\custom-selectable-calendar.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\calendar\\js\\custom-selectable-calendar.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\calendar\\js\\custom-week-numbers.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\calendar\\js\\custom-week-numbers.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\calendar\\js\\custom.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\calendar\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\calendar\\js\\daygrid\\main.min.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\calendar\\js\\daygrid\\main.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\calendar\\js\\google-calendar\\main.min.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\calendar\\js\\google-calendar\\main.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\calendar\\js\\interaction\\main.min.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\calendar\\js\\interaction\\main.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\calendar\\js\\list\\main.min.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\calendar\\js\\list\\main.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\calendar\\js\\timegrid\\main.min.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\calendar\\js\\timegrid\\main.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\chartist\\css\\chartist-custom.css",
+      "PackagePath": "staticwebassets\\panel\\vendor\\chartist\\css\\chartist-custom.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\chartist\\css\\chartist.min.css",
+      "PackagePath": "staticwebassets\\panel\\vendor\\chartist\\css\\chartist.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\chartist\\js\\chartist-tooltip.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\chartist\\js\\chartist-tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\chartist\\js\\chartist.min.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\chartist\\js\\chartist.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\chartist\\js\\custom\\area\\custom-area-chart.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\chartist\\js\\custom\\area\\custom-area-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\chartist\\js\\custom\\area\\custom-area-chart2.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\chartist\\js\\custom\\area\\custom-area-chart2.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\chartist\\js\\custom\\bar\\bar-chart-orders.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\chartist\\js\\custom\\bar\\bar-chart-orders.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\chartist\\js\\custom\\bar\\bar-chart.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\chartist\\js\\custom\\bar\\bar-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\chartist\\js\\custom\\bar\\stack-bar-chart.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\chartist\\js\\custom\\bar\\stack-bar-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\chartist\\js\\custom\\line\\multiple-line-charts.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\chartist\\js\\custom\\line\\multiple-line-charts.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\chartist\\js\\custom\\pie\\pie-charts3.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\chartist\\js\\custom\\pie\\pie-charts3.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\chartist\\js\\custom\\threshold\\threshold.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\chartist\\js\\custom\\threshold\\threshold.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\circliful\\circliful.css",
+      "PackagePath": "staticwebassets\\panel\\vendor\\circliful\\circliful.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\circliful\\circliful.custom.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\circliful\\circliful.custom.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\circliful\\circliful.min.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\circliful\\circliful.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\d3\\d3.min.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\d3\\d3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\datatables\\buttons.bs.css",
+      "PackagePath": "staticwebassets\\panel\\vendor\\datatables\\buttons.bs.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\datatables\\buttons.min.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\datatables\\buttons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\datatables\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\datatables\\buttons.print.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\datatables\\custom\\custom-datatables.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\datatables\\custom\\custom-datatables.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\datatables\\custom\\fixedHeader.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\datatables\\custom\\fixedHeader.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\datatables\\dataTables.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\datatables\\dataTables.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\datatables\\dataTables.bs4-custom.css",
+      "PackagePath": "staticwebassets\\panel\\vendor\\datatables\\dataTables.bs4-custom.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\datatables\\dataTables.bs4.css",
+      "PackagePath": "staticwebassets\\panel\\vendor\\datatables\\dataTables.bs4.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\datatables\\dataTables.min.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\datatables\\dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\datatables\\html5.min.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\datatables\\html5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\datatables\\jszip.min.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\datatables\\jszip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\datatables\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\datatables\\pdfmake.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\datatables\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\datatables\\vfs_fonts.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\datepicker\\css\\classic.css",
+      "PackagePath": "staticwebassets\\panel\\vendor\\datepicker\\css\\classic.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\datepicker\\css\\classic.date.css",
+      "PackagePath": "staticwebassets\\panel\\vendor\\datepicker\\css\\classic.date.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\datepicker\\js\\custom-picker.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\datepicker\\js\\custom-picker.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\datepicker\\js\\picker.date.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\datepicker\\js\\picker.date.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\datepicker\\js\\picker.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\datepicker\\js\\picker.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\daterange\\custom-daterange.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\daterange\\custom-daterange.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\daterange\\daterange.css",
+      "PackagePath": "staticwebassets\\panel\\vendor\\daterange\\daterange.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\daterange\\daterange.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\daterange\\daterange.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\flot\\custom\\areaGraph.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\flot\\custom\\areaGraph.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\flot\\custom\\barGraph.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\flot\\custom\\barGraph.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\flot\\custom\\crosshairGraph.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\flot\\custom\\crosshairGraph.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\flot\\custom\\donutChart.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\flot\\custom\\donutChart.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\flot\\custom\\lineGraph.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\flot\\custom\\lineGraph.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\flot\\custom\\percentilesGraph.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\flot\\custom\\percentilesGraph.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\flot\\custom\\pieChart.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\flot\\custom\\pieChart.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\flot\\custom\\pieTiltChart.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\flot\\custom\\pieTiltChart.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\flot\\custom\\stackedGraph.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\flot\\custom\\stackedGraph.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\flot\\custom\\thresholdsGraph.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\flot\\custom\\thresholdsGraph.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\flot\\flot.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\flot\\flot.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\flot\\jquery.flot.crosshair.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\flot\\jquery.flot.crosshair.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\flot\\jquery.flot.fill-between.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\flot\\jquery.flot.fill-between.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\flot\\jquery.flot.pie.min.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\flot\\jquery.flot.pie.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\flot\\jquery.flot.stack.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\flot\\jquery.flot.stack.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\flot\\jquery.flot.threshold.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\flot\\jquery.flot.threshold.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\flot\\jquery.flot.tooltip.min.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\flot\\jquery.flot.tooltip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\flot\\resize.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\flot\\resize.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\gallery\\baguetteBox.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\gallery\\baguetteBox.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\gallery\\custom-gallery.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\gallery\\custom-gallery.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\gallery\\gallery.css",
+      "PackagePath": "staticwebassets\\panel\\vendor\\gallery\\gallery.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\gallery\\plugins.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\gallery\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\input-masks\\cleave-custom.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\input-masks\\cleave-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\input-masks\\cleave-phone.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\input-masks\\cleave-phone.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\input-masks\\cleave.min.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\input-masks\\cleave.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\input-tags\\tagsinput-custom.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\input-tags\\tagsinput-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\input-tags\\tagsinput.css",
+      "PackagePath": "staticwebassets\\panel\\vendor\\input-tags\\tagsinput.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\input-tags\\tagsinput.min.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\input-tags\\tagsinput.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\input-tags\\typeahead.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\input-tags\\typeahead.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\jqcloud\\custom-jqcloud.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\jqcloud\\custom-jqcloud.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\jqcloud\\jqcloud-1.0.4.min.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\jqcloud\\jqcloud-1.0.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\jqcloud\\jqcloud.css",
+      "PackagePath": "staticwebassets\\panel\\vendor\\jqcloud\\jqcloud.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\jvectormap\\africa-mill.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\jvectormap\\africa-mill.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\jvectormap\\custom\\custom-denmark.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\jvectormap\\custom\\custom-denmark.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\jvectormap\\custom\\map-africa.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\jvectormap\\custom\\map-africa.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\jvectormap\\custom\\map-africa1.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\jvectormap\\custom\\map-africa1.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\jvectormap\\custom\\map-europe.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\jvectormap\\custom\\map-europe.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\jvectormap\\custom\\map-usa.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\jvectormap\\custom\\map-usa.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\jvectormap\\custom\\map-usa3.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\jvectormap\\custom\\map-usa3.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\jvectormap\\custom\\regions-selection.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\jvectormap\\custom\\regions-selection.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\jvectormap\\custom\\resions-with-labels.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\jvectormap\\custom\\resions-with-labels.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\jvectormap\\custom\\world-map-gdp.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\jvectormap\\custom\\world-map-gdp.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\jvectormap\\custom\\world-map-markers.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\jvectormap\\custom\\world-map-markers.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\jvectormap\\custom\\world-map-markers2.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\jvectormap\\custom\\world-map-markers2.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\jvectormap\\de-merc.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\jvectormap\\de-merc.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\jvectormap\\dk-mill.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\jvectormap\\dk-mill.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\jvectormap\\europe-mill.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\jvectormap\\europe-mill.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\jvectormap\\gdp-data.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\jvectormap\\gdp-data.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\jvectormap\\jquery-jvectormap-2.0.3.min.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\jvectormap\\jquery-jvectormap-2.0.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\jvectormap\\us_aea.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\jvectormap\\us_aea.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\jvectormap\\usa.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\jvectormap\\usa.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\jvectormap\\world-mill-en.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\jvectormap\\world-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\lobipanel\\css\\lobipanel.css",
+      "PackagePath": "staticwebassets\\panel\\vendor\\lobipanel\\css\\lobipanel.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\lobipanel\\js\\lobipanel-custom.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\lobipanel\\js\\lobipanel-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\lobipanel\\js\\lobipanel.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\lobipanel\\js\\lobipanel.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\morris\\custom\\areaChart.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\morris\\custom\\areaChart.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\morris\\custom\\barColors.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\morris\\custom\\barColors.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\morris\\custom\\barNoAxis.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\morris\\custom\\barNoAxis.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\morris\\custom\\dayData.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\morris\\custom\\dayData.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\morris\\custom\\donutColors.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\morris\\custom\\donutColors.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\morris\\custom\\donutFormatter.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\morris\\custom\\donutFormatter.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\morris\\custom\\morrisBarChart.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\morris\\custom\\morrisBarChart.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\morris\\custom\\negativeValues.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\morris\\custom\\negativeValues.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\morris\\custom\\stackedBarChart.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\morris\\custom\\stackedBarChart.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\morris\\custom\\xLabelsDiagonally.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\morris\\custom\\xLabelsDiagonally.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\morris\\morris.css",
+      "PackagePath": "staticwebassets\\panel\\vendor\\morris\\morris.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\morris\\morris.min.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\morris\\morris.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\morris\\raphael-min.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\morris\\raphael-min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\notify\\notify-custom.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\notify\\notify-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\notify\\notify-flat.css",
+      "PackagePath": "staticwebassets\\panel\\vendor\\notify\\notify-flat.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\notify\\notify.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\notify\\notify.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\particles\\particles-custom-error.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\particles\\particles-custom-error.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\particles\\particles.css",
+      "PackagePath": "staticwebassets\\panel\\vendor\\particles\\particles.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\particles\\particles.min.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\particles\\particles.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\prism\\prism.css",
+      "PackagePath": "staticwebassets\\panel\\vendor\\prism\\prism.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\prism\\prism.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\prism\\prism.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\range-slider\\ion.rangeSlider.css",
+      "PackagePath": "staticwebassets\\panel\\vendor\\range-slider\\ion.rangeSlider.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\range-slider\\ion.rangeSlider.min.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\range-slider\\ion.rangeSlider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\range-slider\\rangeSlider-custom.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\range-slider\\rangeSlider-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\rating\\raty-custom.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\rating\\raty-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\rating\\raty.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\rating\\raty.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\slimscroll\\custom-scrollbar.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\slimscroll\\custom-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\slimscroll\\slimscroll.min.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\slimscroll\\slimscroll.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\summernote\\fonts\\summernote-1.eot",
+      "PackagePath": "staticwebassets\\panel\\vendor\\summernote\\fonts\\summernote-1.eot"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\summernote\\fonts\\summernote.eot",
+      "PackagePath": "staticwebassets\\panel\\vendor\\summernote\\fonts\\summernote.eot"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\summernote\\fonts\\summernote.ttf",
+      "PackagePath": "staticwebassets\\panel\\vendor\\summernote\\fonts\\summernote.ttf"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\summernote\\fonts\\summernote.woff",
+      "PackagePath": "staticwebassets\\panel\\vendor\\summernote\\fonts\\summernote.woff"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\summernote\\summernote-bs4.css",
+      "PackagePath": "staticwebassets\\panel\\vendor\\summernote\\summernote-bs4.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\summernote\\summernote-bs4.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\summernote\\summernote-bs4.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\wizard\\jquery.steps.css",
+      "PackagePath": "staticwebassets\\panel\\vendor\\wizard\\jquery.steps.css"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\wizard\\jquery.steps.custom.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\wizard\\jquery.steps.custom.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\panel\\vendor\\wizard\\jquery.steps.min.js",
+      "PackagePath": "staticwebassets\\panel\\vendor\\wizard\\jquery.steps.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\settings.xml",
+      "PackagePath": "staticwebassets\\settings.xml"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\settings2.xml",
+      "PackagePath": "staticwebassets\\settings2.xml"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\settings3.xml",
+      "PackagePath": "staticwebassets\\settings3.xml"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\settings4.xml",
+      "PackagePath": "staticwebassets\\settings4.xml"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\settings5.xml",
+      "PackagePath": "staticwebassets\\settings5.xml"
+    },
+    {
+      "Id": "C:\\Users\\KadirPC\\Desktop\\EN GÜNCEL DOSYALAR 22.06.2024\\TÜM DOSYALAR\\Randevu_Proje\\wwwroot\\settings6.xml",
+      "PackagePath": "staticwebassets\\settings6.xml"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.Randevu.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.Randevu.props",
+      "PackagePath": "build\\Randevu.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Randevu.props",
+      "PackagePath": "buildMultiTargeting\\Randevu.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.Randevu.props",
+      "PackagePath": "buildTransitive\\Randevu.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

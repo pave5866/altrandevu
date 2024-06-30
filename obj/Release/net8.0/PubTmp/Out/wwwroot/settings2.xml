@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <About>Deneme falan filan fıstık</About>
+  <FAQs>
+    <FAQ>
+      <Question>Soru1 s</Question>
+      <Answer>soru1cevap</Answer>
+    </FAQ>
+    <FAQ>
+      <Question>sORU2</Question>
+      <Answer>Soru2 cevap</Answer>
+    </FAQ>
+    <FAQ>
+      <Question>Soru3</Question>
+      <Answer>Soru3 cevap</Answer>
+    </FAQ>
+  </FAQs>
+</Settings>
